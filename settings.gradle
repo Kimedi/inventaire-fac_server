@@ -1,0 +1,3 @@
+rootProject.name = 'inventaire-fac-parent'
+include 'inventaire-fac-boot'
+
